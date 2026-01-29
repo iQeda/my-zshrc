@@ -1,4 +1,4 @@
-# my-zshrc
+# my-zshrc (Mac mini 2024)
 
 自分用の zshrc 管理リポジトリ
 
@@ -13,8 +13,8 @@ git clone https://github.com/iQeda/my-zshrc-since-2026.git
 [ -f ~/.zshenv ] && mv ~/.zshenv ~/.zshenv.backup
 
 # シンボリックリンクを作成
-ln -s /path/to/my-zshrc-since-2026/.zshrc ~/.zshrc
-ln -s /path/to/my-zshrc-since-2026/.zshenv ~/.zshenv
+ln -s /path/to/my-zshrc/.zshrc ~/.zshrc
+ln -s /path/to/my-zshrc/.zshenv ~/.zshenv
 
 # 反映
 source ~/.zshrc
