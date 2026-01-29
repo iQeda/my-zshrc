@@ -1,4 +1,4 @@
-# my-zshrc-since-2026
+# my-zshrc
 
 自分用の zshrc 管理リポジトリ
 
